@@ -1,0 +1,14 @@
+{
+  "name": "proyectobase",
+  "version": "1.0.0",
+  "description": "Proyecto base node - yarg",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GusDV",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.1.0"
+  }
+}
